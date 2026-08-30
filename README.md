@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/rishipilla?v=1788058187271"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
