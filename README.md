@@ -4,13 +4,12 @@
 
 **Software Developer · Backend & Cloud · AI & Blockchain**
 
-Building practical systems with a focus on backend engineering, cloud infrastructure, automation, and developer tools.
+Building practical software with a focus on backend engineering, cloud infrastructure, automation, and developer tools.
 
 <p>
-  <a href="https://github.com/rishipilla">
-    <img src="https://img.shields.io/badge/GitHub-rishipilla-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rishipilla&style=flat-square&color=6e40c9" alt="Profile views">
+  <a href="https://github.com/rishipilla">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/rishipilla/">LinkedIn</a>
 </p>
 
 </div>
@@ -19,55 +18,67 @@ Building practical systems with a focus on backend engineering, cloud infrastruc
 
 ## About
 
-- Backend and cloud-focused developer building end-to-end applications
-- Interested in **distributed systems, serverless architecture, AI applications, and blockchain**
-- Comfortable moving from an idea → architecture → API → database → deployment
-- Currently expanding my work across cloud-native and production-oriented engineering
+I build end-to-end software systems — from architecture and APIs to databases, containers, and deployment.
+
+- Backend APIs and microservices
+- Cloud and serverless systems
+- AI-powered applications
+- Databases and data-driven services
+- Blockchain experiments and developer tooling
 
 ## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,nodejs,express,fastapi,react,html,css,postgres,mongodb,supabase,docker,aws,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,nodejs,express,fastapi,react,html,css,postgres,mongodb,supabase,docker,aws,git,github,vscode&perline=9" alt="Technology stack" />
 </p>
 
-## Featured Work
+## Selected Projects
 
-| Project | Focus |
+| Project | Description |
 | --- | --- |
-| **Cloud Microservices Platform** | Microservices, APIs, containers, service architecture |
-| **FinChain AI** | Financial intelligence, AI, blockchain, backend APIs |
-| **Cloud URL Shortener** | Serverless backend, Supabase, URL redirection |
-| **Server Monitoring Dashboard** | Monitoring, metrics, backend services |
-| **Image Processing Pipeline** | Automated image-processing workflows |
-| **3D Portfolio** | Interactive personal portfolio |
+| [Cloud Microservices Platform](https://github.com/rishipilla/cloud-microservices-platform) | Microservices, APIs, containers and service architecture |
+| [FinChain AI](https://github.com/rishipilla/FinChain-AI) | AI-powered financial intelligence and blockchain project |
+| [Cloud URL Shortener](https://github.com/rishipilla/cloud-URL-shortener) | Serverless URL shortening with Supabase |
+| [Server Monitoring Dashboard](https://github.com/rishipilla/server-monitoring-dashboard) | Monitoring and backend metrics |
+| [Image Processing Pipeline](https://github.com/rishipilla/image-processing-pipeline) | Automated image-processing workflows |
+| [3D Portfolio](https://github.com/rishipilla/3d-portfolio) | Interactive personal portfolio |
 
-## GitHub Analytics
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishipilla&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Rishi's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishipilla&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Rishi's most used languages" />
+
+<a href="https://github.com/rishipilla?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20projects-181717?style=for-the-badge&logo=github" alt="View repositories" />
+</a>
+<a href="https://github.com/rishipilla?tab=followers">
+  <img src="https://img.shields.io/github/followers/rishipilla?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://github.com/rishipilla?tab=stars">
+  <img src="https://img.shields.io/github/stars/rishipilla?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</a>
+
 </p>
 
-## Contribution Activity
+### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishipilla&bg_color=ffffff00&color=6e40c9&line=6e40c9&point=24292f&area=true&area_color=6e40c9&hide_border=true&radius=8" width="96%" alt="Rishi's GitHub contribution activity" />
+  <a href="https://github.com/rishipilla">
+    <img src="https://ghchart.rshah.org/6e40c9/rishipilla" alt="Rishi's GitHub contribution calendar" width="95%" />
+  </a>
 </p>
 
 ## Current Focus
 
-```text
-Backend Engineering     ████████████████████
-Cloud & DevOps          ██████████████████░░
-AI Applications         ████████████████░░░░
-Distributed Systems     ██████████████░░░░░░
-Blockchain              ████████████░░░░░░░░
-```
+- **Backend Engineering** — APIs, services, authentication and databases
+- **Cloud & DevOps** — Docker, serverless architecture and deployment
+- **AI Applications** — practical AI features integrated into real products
+- **Distributed Systems** — scalable service architecture and event-driven systems
+- **Blockchain** — application ideas, infrastructure and experimentation
 
-## Let's Build
+---
 
-Open to collaborating on interesting engineering projects, hackathons, and ambitious ideas.
+<div align="center">
 
-<p align="center">
-  <i>Design systems. Build products. Keep learning.</i>
-</p>
+**Design systems. Build products. Keep learning.**
+
+</div>
