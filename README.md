@@ -40,14 +40,6 @@ Building practical software, experimenting with cloud systems, and turning ideas
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishipilla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16" width="95%" alt="Rishi's GitHub Activity Graph" />
 </p>
 
-## 👾 Animated Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishipilla/rishipilla/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishipilla/rishipilla/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/rishipilla/rishipilla/output/pacman-contribution-graph-dark.svg" width="95%" alt="Animated Pac-Man contribution graph">
-</picture>
-
 ## 🎯 Currently Exploring
 
 <p align="center">
