@@ -1,68 +1,73 @@
 <div align="center">
 
-# Hi 👋, I'm Rishi Pilla
+# Rishi Pilla
 
-### Builder • Backend Developer • Full-Stack Explorer
+**Software Developer · Backend & Cloud · AI & Blockchain**
 
-Building practical software, experimenting with cloud systems, and turning ideas into working products.
+Building practical systems with a focus on backend engineering, cloud infrastructure, automation, and developer tools.
 
-</div>
-
----
-
-## 🚀 What I Build
-
-- ☁️ Cloud & serverless applications
-- 🧩 Backend APIs and microservices
-- 🤖 AI-powered applications
-- 🔐 Authentication and data systems
-- ⛓️ Blockchain experiments
-- 🎬 Creative technology & digital projects
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,nodejs,express,fastapi,html,css,react,postgres,mongodb,supabase,docker,aws,git,github,vscode" />
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishipilla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishipilla&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishipilla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16" width="95%" alt="Rishi's GitHub Activity Graph" />
-</p>
-
-## 🎯 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-APIs-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Architecture-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Projects-bb9af7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Research-7dcfff?style=for-the-badge" />
-</p>
-
-## 🤝 Connect
-
-<p align="center">
+<p>
   <a href="https://github.com/rishipilla">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
+    <img src="https://img.shields.io/badge/GitHub-rishipilla-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rishipilla&style=flat-square&color=6e40c9" alt="Profile views">
 </p>
+
+</div>
 
 ---
 
-<div align="center">
-  <i>Build. Break. Learn. Repeat.</i>
-</div>
+## About
+
+- Backend and cloud-focused developer building end-to-end applications
+- Interested in **distributed systems, serverless architecture, AI applications, and blockchain**
+- Comfortable moving from an idea → architecture → API → database → deployment
+- Currently expanding my work across cloud-native and production-oriented engineering
+
+## Technology
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,nodejs,express,fastapi,react,html,css,postgres,mongodb,supabase,docker,aws,git,github,vscode&perline=9" />
+</p>
+
+## Featured Work
+
+| Project | Focus |
+| --- | --- |
+| **Cloud Microservices Platform** | Microservices, APIs, containers, service architecture |
+| **FinChain AI** | Financial intelligence, AI, blockchain, backend APIs |
+| **Cloud URL Shortener** | Serverless backend, Supabase, URL redirection |
+| **Server Monitoring Dashboard** | Monitoring, metrics, backend services |
+| **Image Processing Pipeline** | Automated image-processing workflows |
+| **3D Portfolio** | Interactive personal portfolio |
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishipilla&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Rishi's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishipilla&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Rishi's most used languages" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishipilla&bg_color=ffffff00&color=6e40c9&line=6e40c9&point=24292f&area=true&area_color=6e40c9&hide_border=true&radius=8" width="96%" alt="Rishi's GitHub contribution activity" />
+</p>
+
+## Current Focus
+
+```text
+Backend Engineering     ████████████████████
+Cloud & DevOps          ██████████████████░░
+AI Applications         ████████████████░░░░
+Distributed Systems     ██████████████░░░░░░
+Blockchain              ████████████░░░░░░░░
+```
+
+## Let's Build
+
+Open to collaborating on interesting engineering projects, hackathons, and ambitious ideas.
+
+<p align="center">
+  <i>Design systems. Build products. Keep learning.</i>
+</p>
